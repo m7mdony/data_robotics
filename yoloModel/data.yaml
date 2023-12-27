@@ -1,0 +1,7 @@
+names :
+- trash 
+- obstacle
+nc: 2
+path: //the path to the images folder (/content/drive/MyDrive/data/images)
+train: //the path to the images train folder (/content/drive/MyDrive/data/images/train)
+val: //the path to the validation imaged folder (/content/drive/MyDrive/data/images/val)

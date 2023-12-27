@@ -1,0 +1,12 @@
+1. split the data into training, validation and testing in the following ratio : 80%, 13%, 7% (respectively).
+	- make sure to save the right labels to their images (its super 			 important), u can do that by checking the similar file names between the images and labels folder.
+2. make sure to have the following folder structure:
+ 	data folder => it got two folders inside (images & labels), yaml file.
+ 	images folder => training images , val images, testing images.
+ 	labels folder => training labels, val labels, testing labels. 
+3. load the data to your google drive, make sure u got at least 5GB free space in your drive storage.
+4. edit the yaml file with the drive paths of the mentioned files in the yaml file associated, dont change anything else in the yaml file except the paths.
+5. when you load the colab notebook, dont forget to change any required paths.
+5. train the model.
+
+
